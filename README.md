@@ -1,5 +1,5 @@
 
-![Logo]("Keta\images\logo")
+![image alt](https://github.com/AshmitSherigar/Keta/blob/226c9d288e8ebdcc2c0d7fce9b3b9542807b06f7/images/logo.png)
 
 
 
@@ -46,7 +46,13 @@ Animations improved the UX significantly, adding life to the landing page.
 JavaScript was essential for interactive components like buttons and scroll-triggered effects. It was interesting to combine event listeners with CSS transitions to create hover effects and dynamic content loading.
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image alt](https://github.com/AshmitSherigar/Keta/blob/226c9d288e8ebdcc2c0d7fce9b3b9542807b06f7/images/Screenshot%202024-11-04%20061458.png)
+![image alt](https://github.com/AshmitSherigar/Keta/blob/226c9d288e8ebdcc2c0d7fce9b3b9542807b06f7/images/Screenshot%202024-11-04%20061517.png)
+![image alt](https://github.com/AshmitSherigar/Keta/blob/226c9d288e8ebdcc2c0d7fce9b3b9542807b06f7/images/Screenshot%202024-11-04%20061533.png)
+![image alt](https://github.com/AshmitSherigar/Keta/blob/226c9d288e8ebdcc2c0d7fce9b3b9542807b06f7/images/Screenshot%202024-11-04%20061545.png)
+![image alt](https://github.com/AshmitSherigar/Keta/blob/226c9d288e8ebdcc2c0d7fce9b3b9542807b06f7/images/Screenshot%202024-11-04%20061653.png)
+![image alt](https://github.com/AshmitSherigar/Keta/blob/226c9d288e8ebdcc2c0d7fce9b3b9542807b06f7/images/Screenshot%202024-11-04%20061702.png)
+
 
 
 ## Authors
