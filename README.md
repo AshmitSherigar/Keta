@@ -8,8 +8,7 @@ Keta is an interactive front-end project designed to showcase the immersive pote
 - Smooth animations using **GSAP & ScrollTrigger**
 - Hover effects and flip animations for interactive cards
 - Custom cursor animation for enhanced user experience
-- Responsive design for all devices
-- Dynamic testimonial slider
+
 
 ## Technologies Used
 - **HTML** - Structured page layouts
