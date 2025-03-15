@@ -46,7 +46,7 @@ Keta is an interactive front-end project designed to showcase the immersive pote
 - ![Homepage](https://github.com/AshmitSherigar/Keta/blob/main/images/readme1.png?raw=true)
 - ![VR Categories](https://github.com/AshmitSherigar/Keta/blob/main/images/readme2.png?raw=true)
 - ![Testimonials](https://github.com/AshmitSherigar/Keta/blob/main/images/readme3.png?raw=true)
-- ![Hovering-Flip-Effect](https://github.com/AshmitSherigar/Keta/blob/main/images/readme4.png?raw=true)
+- ![Hovering-Flip-Effect](https://github.com/AshmitSherigar/Keta/blob/main/images/readme4..png?raw=true)
 - ![Feedback](https://github.com/AshmitSherigar/Keta/blob/main/images/readme5.png?raw=true)
 - ![Footer Section](https://github.com/AshmitSherigar/Keta/blob/main/images/readme6.png?raw=true)
 
